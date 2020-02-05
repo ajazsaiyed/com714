@@ -17,9 +17,11 @@ public class Animal {
         System.out.println("aah");
     }
 
-    public void mate(Animal partner){
+    public void mate(Animal mate){
 
-        
+        system.out
+
+
     }
 
 }

@@ -24,6 +24,9 @@ public class Main {
         // make the tiger eat itself
         theTiger.eat_animal(theTiger);
 
+        // make the tiger meet elephant 
+        theTiger.mate_animale
+
     }
 
 }
