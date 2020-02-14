@@ -19,7 +19,7 @@ public class Animal {
 
     public void mate(Animal mate){
 
-        system.out
+       // system.out
 
 
     }

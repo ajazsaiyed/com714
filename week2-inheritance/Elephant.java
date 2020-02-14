@@ -12,13 +12,13 @@ public class Elephant extends Animal {
 
     @Override
     public void mate(Animal partner){
-if (partner instanceof Elephant){
+//if (partner instanceof Elephant){
 
-System.out.println("Heelo");
-}
-    }
-    else {
-    System.out.println("bye");
+//System.out.println("Heelo");
+//}
+  //  }
+    //else {
+    //System.out.println("bye");
     }
 
 }

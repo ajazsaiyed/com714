@@ -17,16 +17,16 @@ public class Tiger extends Animal {
     }
   }
 
-  public void mate_animal(Animal partner){
+  //public void mate_animal(Animal partner){
 
-    if (partner instanceof Elepant) {
-      System.out.println("Woooow Elephant how are you!!!");
-    }
-    else {
+    //if (partner instanceof Elepant) {
+      //System.out.println("Woooow Elephant how are you!!!");
+    //}
+    //else {
 
-      System.out.println("break up");
-    }
-  }
+      //System.out.println("break up");
+    //}
+  
 
  
 }
