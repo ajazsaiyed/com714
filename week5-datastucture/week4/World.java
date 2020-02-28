@@ -20,8 +20,7 @@ public class World {
     public void addLivingThings(LivingThings thing) {
         livingThings.add(thing);
 
-        public LivingThings findLivingThings(int id){
-
+      public LivingThings findLivingThings(int id){
             for (LivingThings thing : livingThings){
                 if (things.getid() == id){
                     return things;
