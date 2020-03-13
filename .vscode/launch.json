@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Grid",
+            "request": "launch",
+            "mainClass": "week7.Grid",
+            "projectName": "com714_96b55fdf"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Gui",
             "request": "launch",
             "mainClass": "week6.Gui",
